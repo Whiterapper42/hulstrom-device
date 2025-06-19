@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+# General
+.DS_Store
+*.log
+*.bak
+*.tmp
+
+# Python build / cache
+__pycache__/
+*.py[cod]
+
+# IPython
+.ipynb_checkpoints/
+
+# GPG & timestamp artifacts
+*.ots
+*.asc
